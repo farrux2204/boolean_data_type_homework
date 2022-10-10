@@ -5,6 +5,7 @@ def main(a):
         a: int
     Returns:
         bool
-    """
+    """ 
     # Write your code here
-    return 
+    return a<0
+print(main(-1))
