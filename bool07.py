@@ -9,4 +9,4 @@ def main(a,b):
     """
     # Write your code here
     return a>b
-print(main(7,6))
+print(main(3,3))
